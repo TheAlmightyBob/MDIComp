@@ -5,7 +5,14 @@ A library to enhance classic MDI applications with Windows 8 DirectComposition.
 
 This is intended for old-fashioned non-tabbed MDI applications, where managing many open windows can be a bit of a pain. Windows 8 support for layered child windows and DirectComposition are leveraged to display all open windows for selection. (based on a similar feature in Compiz)
 
-This is not intended as a general purpose DirectComposition library. I expect Kenny Kerr is already working on that...
+Normal:
+![before mdicomp](https://cloud.githubusercontent.com/assets/7707864/3594849/2e30edbe-0ca8-11e4-9268-5035001dd455.PNG)
+
+Composed & Exposed:
+![after mdicomp](https://cloud.githubusercontent.com/assets/7707864/3594848/2817f706-0ca8-11e4-8bd0-e3643b78e5d3.png)
+
+
+This is *not* intended as a general purpose DirectComposition library. I expect Kenny Kerr is already working on that...
 
 Usage Notes:
 - Include MDIComp.h
