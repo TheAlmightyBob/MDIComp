@@ -12,7 +12,7 @@ Composed & Exposed:
 ![after mdicomp](https://cloud.githubusercontent.com/assets/7707864/3594848/2817f706-0ca8-11e4-8bd0-e3643b78e5d3.png)
 
 
-This is *not* intended as a general purpose DirectComposition library. I expect Kenny Kerr is already working on that...
+This is *not* intended as a general purpose DirectComposition library. For that, check out Kenny Kerr's http://moderncpp.com
 
 Usage Notes:
 - Include MDIComp.h
